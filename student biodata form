@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>student Biodata form</title>
+</head>
+<body bgcolor=pink>
+<h2 align="center"><u>RESUME</u></h2>
+<h3>Name: akshay</h3>
+<h3>DOB:  21-12-2005</h3>
+<h3>ADDRESS: kakinada</h3>
+<hr color="red">
+<h3 align="center"><u>Educational qualifications</u></h2>
+<h4>SSC: 90%</h3>
+<h4>INTER: 75%</h3>
+<h4>BCA: 70%</h3>
+<hr color="green">
+<h3 align="center"><u>Hobbies</u></h2>
+<h4>Watching movies</h4>
+<h4>playing games</h4>
+<h4>Reading books</h3>
+<hr color="red">
+</body>
+</html>
+ 
+
+ 
