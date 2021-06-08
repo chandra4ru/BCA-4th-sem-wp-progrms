@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>html marquee</title>
+</head>
+<body bgcolor=pink>
+<marquee>WELCOME TO BCA 4th SEMESTER STUDENTS</marquee>
+</body>
+</html>
+
+<marquee> tag is defined with the by default moving to the right side to left side.
+direction attribute:it is nothing but levels of directions
+marquee direction="up"
+marquee direction="right"
+marquee direction="down"
