@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>web programming</title>
+</head>
+<body bgcolor=pink>
+<h1>THE BOLD TAG</h1>
+<p><b>this is a paragraph</b></p>
+<p><strong> this is a Strong</strong></p>
+<p><i> this is italic tag </i></p>
+<p><em> this is italic tag</em></p>
+</body>
+</html>
