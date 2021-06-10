@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>html text</title>
+</head>
+<body bgcolor=pink>
+<p><b>welcome</b></p>
+<p><strong>welcome</strong></p>
+<p><i>welcome</i></p>
+<p><em>welcome<em></p>
+<p>a<sup>2</sup>+b<sup>2</sup>+2ab</p>
+<p>(a-b)<sup>2</sup></p>
+<p>co<sub>2</sub></p>
+<p>H<sub>2</sub>o</p>
+<p>O<sub>2</sub></p>
+<p><small>WELCOME</small></p>
+<p><mark color="red">Welcome</mark></p>
+</body>
+</html>
